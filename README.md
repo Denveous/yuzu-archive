@@ -21,8 +21,6 @@ It is written in C++ with portability in mind.
 
 ## **Disclaimer**
 
-**Important Notes:**
-
 * **No Support Provided:** This mirror does not offer any assistance with compilation or usage.
 * **Legal Considerations:**
     * This repository is intended for use with game files legally obtained by the user (e.g., dumped from their own Nintendo Switch).
