@@ -30,7 +30,7 @@ It is written in C++ with portability in mind.
 
 ## Download
 
-You can download the latest releases automatically via the installer on our [downloads](https://web.archive.org/web/20240304063132/https://yuzu-emu.org/downloads/) page.
+You can download the final releases of yuzu on the [downloads](https://github.com/Denveous/yuzu-archive/releases) page.
 
 ## License
 
