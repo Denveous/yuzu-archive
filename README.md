@@ -27,7 +27,8 @@ It is written in C++ with portability in mind.
 * **Legal Considerations:**
     * This repository is intended for use with game files legally obtained by the user (e.g., dumped from their own Nintendo Switch).
     * The code within this project is community created and does not utilize any original Nintendo Switch source code. (_Keep this in mind github/nintendo legal when you petition the removal of this code.)_
-
+    * I do not profit from this code being up in anyway, this is just here for educational and archiving purposes only.
+      
 ## Download
 
 You can download the final releases of yuzu on the [downloads](https://github.com/Denveous/yuzu-archive/releases) page.
